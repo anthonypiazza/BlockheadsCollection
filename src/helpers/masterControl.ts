@@ -1,5 +1,5 @@
 import { blockheadData } from '../constants/blockheadData';
-import { onCountFilterChange, onYearFilterChange, onSaleFilterChange, onSortChange } from './index'
+import { onCountFilterChange, onYearFilterChange, onSaleFilterChange, onSortChange } from '../styles'
 
 export const masterControl = (e, handler, sortType, yearType, countType, saleType, blockheads, setBlockheads) => {
     let heads = blockheadData;

@@ -1,4 +1,4 @@
-import styled from 'styled-components'
+import styled from "styled-components";
 import {BaseClassCenter} from "./global.style";
 
 export const NameDomain = styled.h2`

@@ -1,6 +1,6 @@
 import React from "react";
 import { BaseClassEvenSpread, FilterContainer } from "../styles";
-import { FilterSelectDropdown } from "./index";
+import { FilterSelectDropdown } from "../styles";
 import { filterDropdownData } from "../constants/filterDropdown";
 
 export const FilterMenu = React.memo(() => {
